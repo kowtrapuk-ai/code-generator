@@ -1,0 +1,15 @@
+#secrets
+.env
+
+#python virtual environment
+.venv/
+venv/
+
+#python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+#Generated output
+
+generated_code*.py
