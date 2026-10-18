@@ -11,5 +11,5 @@ __pycache__/
 .pytest_cache/
 
 #Generated output
-
-generated_code*.py
+generated_code.py
+generated_code_*.py
